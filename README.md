@@ -1,5 +1,5 @@
 # Body-Ditection-
-AI Face Body and Hand Pose Detection with Opencv-Python and Mediapipe 
+AI  Body  Pose Detection with Opencv-Python and Mediapipe 
 
 this project using : python==3.9.8 
 
